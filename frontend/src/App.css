@@ -1,0 +1,16 @@
+.logo-text-style {
+  font-size: 30px !important;
+  font-family: fantasy !important;
+  color: rgb(154, 248, 255) !important;
+}
+.list-group-flush{
+  border-radius: 8px !important;
+}
+
+.nav-pills .nav-link {
+  border-radius: 0px !important;
+}
+
+.modal-content{
+  background-color: rgb(40, 39, 37);
+}
